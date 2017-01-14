@@ -11,11 +11,11 @@
 
 Results:
 
-![Console image](https://github.com/revanurambareesh/classic-interpolation/tree/master/Resources/console1.png)
+![Console image](https://raw.githubusercontent.com/revanurambareesh/classic-interpolation/master/Resources/console1.png)
 
 Depiction of f(x):
 
-![Console image BGI](https://github.com/revanurambareesh/classic-interpolation/tree/master/Resources/console2.png)
+![Console image BGI](https://raw.githubusercontent.com/revanurambareesh/classic-interpolation/master/Resources/console2.png)
 
 
 ## ERROR LIST
