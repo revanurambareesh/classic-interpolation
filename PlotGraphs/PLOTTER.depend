@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1448468550 source:f:\project\microinstruments_inter\finalrc\plotgraphs\main.cpp
+	<stdio.h>
+	"..\Resources\Graphics\graphics.h"
+
+1448340664 f:\project\microinstruments_inter\finalrc\resources\graphics\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1451621434 source:f:\project\microinstruments_inter\today\plotgraphs\main.cpp
+	<stdio.h>
+	"..\Resources\Graphics\graphics.h"
+
+1448340664 f:\project\microinstruments_inter\today\resources\graphics\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
