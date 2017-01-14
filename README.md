@@ -9,7 +9,14 @@
 
 ### Demo
 
-![Console](https://github.com/revanurambareesh/classic-interpolation/tree/master/Resources/console.png)
+Results:
+
+![Console](https://github.com/revanurambareesh/classic-interpolation/tree/master/Resources/console1.png)
+
+Depiction of f(x):
+
+![Console](https://github.com/revanurambareesh/classic-interpolation/tree/master/Resources/console2.png)
+
 
 ## ERROR LIST
 - -9997 : Point not in range.
