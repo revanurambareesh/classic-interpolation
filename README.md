@@ -8,6 +8,7 @@
 6. Polynomial 4th order
 
 ### Demo
+
 ![Console](https://github.com/revanurambareesh/classic-interpolation/tree/master/Resources/console.png)
 
 ## ERROR LIST
