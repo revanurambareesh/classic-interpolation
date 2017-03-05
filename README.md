@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/revanurambareesh/classic-interpolation.svg?branch=master)](https://travis-ci.org/revanurambareesh/classic-interpolation)
+
 # Interpolation
 
 1. Cubic Spline Interpolation
